@@ -2,6 +2,8 @@
 
 # KygekEasyGamemode
 
+[![Discord](https://img.shields.io/discord/735439472992321587.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/CXtqUZv)
+
 A plugin to quickly change between gamemodes. This plugin will save your time, especially if you are often changing between gamemodes.
 
 # Features
@@ -36,3 +38,7 @@ KygekEasyGamemode plugin is made by KygekTeam and licensed under GPL-3.0.
 - Join our Discord server <a href="https://discord.gg/CXtqUZv">here</a> for latest updates from KygekTeam.
 - If you found bugs or want to give suggestions, please visit <a href="https://github.com/KygekTeam/KygekEasyGamemode-Nukkit/issues">here</a> or join our Discord server.
 - We accept all contributions! If you want to contribute please make a pull request in <a href="https://github.com/KygekTeam/KygekEasyGamemode-Nukkit/pulls">here</a>.
+
+# Other Versions
+
+- [PocketMine-MP](https://github.com/KygekTeam/KygekEasyGamemode)
